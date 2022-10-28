@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java.
 - 📫 you can contact me through my gmail id "gaurisharma0450@gmail.com".
 - I'm trying to find my interest also in different technologies like blockchain, AR/VR, and cloud computing.
-- 
 
 
 <!---
